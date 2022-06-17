@@ -1,3 +1,14 @@
 {
-    "name": "gionatab/tools"
+    "name": "gionatab/tools",
+    "description": "Strumentazione che aiuta l'esecuzione di script",
+    "authors": [
+        {
+            "name": "Gionata Bonazzi",
+            "email": "gionata.bonazzi@up3up.it"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Gionatab\\Tools\\": ["src/Tools"]}
+    }
 }

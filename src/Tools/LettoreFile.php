@@ -1,5 +1,5 @@
 <?php
-namespace Tools;
+namespace Gionatab\Tools;
 class LettoreFile {
   /* NON USATO */
   protected $tipo;
