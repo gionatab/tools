@@ -1,5 +1,5 @@
 <?php
-namespace Tools;
+namespace Gionatab\Tools;
 
 use Exception;
 
