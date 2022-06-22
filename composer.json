@@ -1,5 +1,5 @@
 {
-    "name": "gionatab/tools",
+    "name": "up3up/tools",
     "description": "Strumentazione che aiuta l'esecuzione di script",
     "authors": [
         {
@@ -9,6 +9,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Gionatab\\Tools\\": ["src/Tools"]}
+        "psr-4": {"Up3Up\\Tools\\": ["src/Tools"]}
     }
 }
