@@ -1,6 +1,4 @@
 <?php
-namespace Gionatab\Tools;
-
 use Exception;
 
 class ParseStructure {
