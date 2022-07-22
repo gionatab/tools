@@ -1,5 +1,4 @@
 <?php
-namespace Gionatab\Tools;
 class ProgressBar
 {
   protected $max_items;
