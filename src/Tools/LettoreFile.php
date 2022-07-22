@@ -1,4 +1,6 @@
 <?php
+namespace Up3Up\Tools;
+
 class LettoreFile {
   /* NON USATO */
   protected $tipo;

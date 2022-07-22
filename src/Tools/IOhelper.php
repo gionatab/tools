@@ -1,4 +1,5 @@
 <?php
+namespace Up3Up\Tools;
 class IOhelper
 {
   protected $running_from_browser;

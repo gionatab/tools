@@ -1,4 +1,6 @@
 <?php
+namespace Up3Up\Tools;
+
 class ProgressBar
 {
   protected $max_items;

@@ -1,4 +1,6 @@
 <?php
+namespace Up3Up\Tools;
+
 use Exception;
 
 class ParseStructure {
