@@ -1,5 +1,4 @@
 <?php
-namespace Gionatab\Tools;
 class IOhelper
 {
   protected $running_from_browser;
